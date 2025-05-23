@@ -17,4 +17,4 @@ My favorite topics:
 
 🌟 Data Visualization | Deep Learning | Prompt Engineering
 
-Since May 2024, all of my work has been contributed to the open-source community and also supports my advisor’s group, [Machine Psychology](https://mpsych.org/ai/) at UMass Boston.
+Since May 2024, all of my work has been contributed to the open-source AI community and also supports my advisor’s group, [Machine Psychology](https://mpsych.org/ai/) at UMass Boston led by Professor Daniel Haehn.
