@@ -5,7 +5,7 @@ I’m an AI researcher and I love using colors to visualize complex AI ideas.
 *I am a Machine Learning Fellow and Deputy Director at Machine Psychology, and Graduate Assistant in the Assessment & Planning Department.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raminguyen/raminguyen/main/rami_huu_nguyen_i_love_ai.png" alt="Rami Loves AI" width="30" height="30" style="border-radius:12px;">
+  <img src="https://raw.githubusercontent.com/raminguyen/raminguyen/main/rami_huu_nguyen_i_love_ai.png" alt="Rami Loves AI" width="100" height="100" style="border-radius:12px;">
 </p>
 
 **What I accomplished so far with my team is:**
