@@ -17,7 +17,7 @@ My favorite topics:
 
 Since May 2024, all of my work has been contributed to the open-source AI community and also supports my advisor’s group, [Machine Psychology](https://mpsych.org/ai/) at UMass Boston led by Professor Daniel Haehn.
 
-🟩 I am coding through
+🟩 My favorite programming are
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48"/>
