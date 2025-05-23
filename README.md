@@ -1,8 +1,6 @@
 🟩 Hello ! I'm Ra-mi. Welcome to my page! 
 
-I’m an AI researcher who loves cracking AI puzzles and transforming them into groundbreaking discoveries. 🧩
-
-  <span style="color:#29ABE2;"><strong>My Current Job</strong></span>  
+I’m an AI researcher and I love using colors to visualize complex AI ideas. 
   
 *I am a Machine Learning Fellow and Deputy Director at Machine Psychology, and Graduate Assistant in the Assessment & Planning Department.*
 
