@@ -10,6 +10,8 @@ I’m an AI researcher and I love using colors to visualize complex AI ideas.
 
 **What I accomplished so far with my team is:**
 
+---
+
 [Graphical Perception](https://raminguyen.github.io/LLMP2/) 
 
 ---
