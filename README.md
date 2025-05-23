@@ -17,7 +17,7 @@ My favorite topics:
 
 Since May 2024, all of my work has been contributed to the open-source AI community and also supports my advisor’s group, [Machine Psychology](https://mpsych.org/ai/) at UMass Boston led by Professor Daniel Haehn.
 
-🤖 || **Top 10 Tools I Use**
+🟩 My favorite tool are:
 
 <p align="left">
   <!-- ML/AI -->
