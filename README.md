@@ -5,27 +5,24 @@ I’m an AI researcher who loves cracking AI puzzles and transforming them into 
 
 What I accomplished so far with my team is
 
----
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; margin-top: 20px;">
 
-<div style="background-color:#E6F2FA; border-left: 6px solid #29ABE2; padding: 16px; margin-bottom: 16px;">
-  <h3 style="color:#0077B6;">🔵 Project 1: Image Colorization</h3>
-  <p>A deep learning model that brings grayscale images to life using CNN + ViT + caption-based color guidance.</p>
-  <a href="YOUR_LINK_HERE" style="color:#0077B6; font-weight: bold;">🔗 View Project</a>
+  <div style="background-color: #29ABE2; color: white; padding: 20px 30px; border-radius: 12px; text-align: center; min-width: 220px;">
+    <strong>🔵 Image Colorization</strong><br>
+    <a href="YOUR_LINK_1" style="color: white; text-decoration: underline;">View Project</a>
+  </div>
+
+  <div style="background-color: #29ABE2; color: white; padding: 20px 30px; border-radius: 12px; text-align: center; min-width: 220px;">
+    <strong>🔵 Knowledge Distillation</strong><br>
+    <a href="YOUR_LINK_2" style="color: white; text-decoration: underline;">View Project</a>
+  </div>
+
+  <div style="background-color: #29ABE2; color: white; padding: 20px 30px; border-radius: 12px; text-align: center; min-width: 220px;">
+    <strong>🔵 Graphical Perception</strong><br>
+    <a href="YOUR_LINK_3" style="color: white; text-decoration: underline;">View Project</a>
+  </div>
+
 </div>
-
-<div style="background-color:#E6F2FA; border-left: 6px solid #29ABE2; padding: 16px; margin-bottom: 16px;">
-  <h3 style="color:#0077B6;">🔵 Project 2: Knowledge Distillation</h3>
-  <p>Transferring intelligence from large models to lightweight models using real and AI-generated image datasets.</p>
-  <a href="YOUR_LINK_HERE" style="color:#0077B6; font-weight: bold;">🔗 View Project</a>
-</div>
-
-<div style="background-color:#E6F2FA; border-left: 6px solid #29ABE2; padding: 16px; margin-bottom: 16px;">
-  <h3 style="color:#0077B6;">🔵 Project 3: Graphical Perception</h3>
-  <p>Exploring how AI understands data visualizations by comparing model predictions with human perception.</p>
-  <a href="YOUR_LINK_HERE" style="color:#0077B6; font-weight: bold;">🔗 View Project</a>
-</div>
-
----
 
 
 My favorite topics:
