@@ -10,7 +10,15 @@ I’m an AI researcher and I love using colors to visualize complex AI ideas.
 
 **What I accomplished so far with my team is:**
 
-[Graphical Perception](https://raminguyen.github.io/LLMP2/) | [Image Colorization](https://github.com/raminguyen/Image-Colorization) | [Knowledge Distillation](https://github.com/raminguyen/AI_For_All)
+[Graphical Perception](https://raminguyen.github.io/LLMP2/) 
+
+---
+
+[Image Colorization](https://github.com/raminguyen/Image-Colorization) 
+
+---
+
+[Knowledge Distillation](https://github.com/raminguyen/AI_For_All)
 
 My favorite topics:
 
