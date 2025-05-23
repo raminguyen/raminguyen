@@ -16,3 +16,12 @@ My favorite topics:
 🌟 Data Visualization | Deep Learning | Prompt Engineering
 
 Since May 2024, all of my work has been contributed to the open-source AI community and also supports my advisor’s group, [Machine Psychology](https://mpsych.org/ai/) at UMass Boston led by Professor Daniel Haehn.
+
+🟩 I am coding through
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="48" height="48"/>
+</p>
