@@ -7,7 +7,7 @@ I’m an AI researcher who loves cracking AI puzzles and transforming them into 
 *I am a Machine Learning Fellow, Deputy Director of Machine Psychology, and Graduate Assistant in the Assessment & Planning Department.*
 
 
-** What I accomplished so far with my team is: **
+**What I accomplished so far with my team is:**
 
 [Graphical Perception](https://raminguyen.github.io/LLMP2/) | [Image Colorization](https://github.com/raminguyen/Image-Colorization) | [Knowledge Distillation](https://github.com/raminguyen/AI_For_All)
 
