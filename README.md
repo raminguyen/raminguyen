@@ -20,6 +20,8 @@ I’m an AI researcher and I love using colors to visualize complex AI ideas.
 
 [Knowledge Distillation](https://github.com/raminguyen/AI_For_All)
 
+---
+
 My favorite topics:
 
 🌟 AI | Multimodal Large Language Models | Graphical Perception | Machine Perception
