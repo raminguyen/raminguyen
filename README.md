@@ -4,7 +4,7 @@ I’m an AI researcher who loves cracking AI puzzles and transforming them into 
 
   <span style="color:#29ABE2;"><strong>My Current Job</strong></span>  
   
-*I am a Machine Learning Fellow, Deputy Director of Machine Psychology, and Graduate Assistant in the Assessment & Planning Department.*
+*I am a Machine Learning Fellow and Deputy Director at Machine Psychology, and Graduate Assistant in the Assessment & Planning Department.*
 
 
 **What I accomplished so far with my team is:**
@@ -17,4 +17,4 @@ My favorite topics:
 
 🌟 Data Visualization | Deep Learning | Prompt Engineering
 
-Since May 2024, all of my work has been contributed to the open-source community and also supports my advisor’s group, Machine Psychology at UMass Boston.
+Since May 2024, all of my work has been contributed to the open-source community and also supports my advisor’s group, [Machine Psychology](https://mpsych.org/ai/) at UMass Boston.
