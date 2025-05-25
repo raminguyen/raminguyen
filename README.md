@@ -2,7 +2,7 @@
 
 I’m an AI researcher and I love using 🟩 colors to visualize complex AI ideas. 
   
-*I am a Machine Learning Fellow and Deputy Director at Machine Psychology, and Graduate Assistant in the Assessment & Planning Department.*
+*I am a Machine Learning Fellow and Deputy Director at Machine Psychology, and Graduate Assistant in the Assessment & Planning Department at UMass Boston. *
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/raminguyen/raminguyen/main/rami_huu_nguyen_i_love_ai.png" alt="Rami Loves AI" width="300" height="300" style="border-radius:12px;">
