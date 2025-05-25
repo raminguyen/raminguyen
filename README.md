@@ -24,13 +24,15 @@ I’m an AI researcher and I love using colors to visualize complex AI ideas.
 
 ---
 
+More of my works: Cool, let's view [My Website](https://raminguyen.github.io/)
+
 My favorite topics:
 
 🌟 AI | Multimodal Large Language Models | Graphical Perception | Machine Perception
 
 🌟 Data Visualization | Deep Learning | Prompt Engineering
 
-Since May 2024, all of my work has been contributed to the open-source AI community and also supports my advisor’s group, [Machine Psychology](https://mpsych.org/ai/) at UMass Boston led by Professor Daniel Haehn.
+Since May 2024, all of my work has been contributed to the open-source AI community and also supports my super proud advisor’s group, [Machine Psychology](https://mpsych.org/ai/) at UMass Boston led by Professor Daniel Haehn.
 
 🟩 My favorite tool are:
 
