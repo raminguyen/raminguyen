@@ -24,7 +24,8 @@ I’m an AI researcher and I love using colors to visualize complex AI ideas.
 
 ---
 
-🟩 Curious more about my works?  
+🟩 Curious more about my works?
+
 Cool, let's view [My Website](https://raminguyen.github.io/)
 
 🟩 **My Favorite Topics**
