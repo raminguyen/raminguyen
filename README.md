@@ -34,7 +34,7 @@ I’m an AI researcher and I love using 🟩 colors to visualize complex AI idea
 🌟 Visualization Literacy | Deep Learning | Prompt Engineering  
 🌟 Data Visualization | Data Analysis | Market Research
 
-Since May 2024, all of my work has been contributed to the open-source AI community and also supports my super proud advisor’s group, [Machine Psychology](https://mpsych.org/ai/) at UMass Boston led by Professor Daniel Haehn.
+Since May 2024, all of my work has been contributed to the open-source AI community and also supports my super proud advisor’s group, [Machine Psychology](https://mpsych.org/ai/) at UMass Boston led by my Professor Daniel Haehn.
 
 🟩 My favorite tool are:
 
