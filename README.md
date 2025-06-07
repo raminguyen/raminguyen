@@ -24,7 +24,7 @@ I’m an AI researcher and I love using 🟩 colors to visualize complex AI idea
 
 ---
 
-🟩 Curious more about my works?
+🟩 I love branding myself since 2017 once I first studied in Singapore through impressive content, and fabulous colors. Curious more about my works?
 
   Cool, explore more by clicking here to view [My Website](https://raminguyen.github.io/)
 
