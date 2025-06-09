@@ -8,6 +8,8 @@ I’m an AI researcher and I love using 🟩 colors to visualize complex AI idea
   <img src="https://raw.githubusercontent.com/raminguyen/raminguyen/main/rami_huu_nguyen_i_love_ai.png" alt="Rami Loves AI" width="300" height="300" style="border-radius:12px;">
 </p>
 
+** Currently, I and my team, AI Fantastic are starting working on the paper called [Visualization Literacy](https://github.com/raminguyen/Visualization_Literacy) to evaluate Gen AI models's ability to intepret visual information on the charts. 
+
 **What I accomplished so far with my team is:**
 
 ---
