@@ -12,9 +12,6 @@ I’m an AI researcher and I love using 🟩 colors to visualize complex AI idea
 
 🟩 Rami and my team, AI Fantastic are starting working on the paper called [Visualization Literacy](https://github.com/raminguyen/Visualization_Literacy) to evaluate Gen AI models's ability to intepret visual information on the charts. 
 
-🟩 What I’m really proud of:
-
-Since August 7th, 2025, my AI Fantastic team has officially become an organization — a place where we grow as a team, contribute our work, create real impact, and most importantly, stay open-sourced. 
 
 **What I accomplished so far with my team is:**
 
@@ -42,7 +39,10 @@ Since August 7th, 2025, my AI Fantastic team has officially become an organizati
 🌟 Visualization Literacy | Deep Learning | Prompt Engineering  
 🌟 Data Visualization | Data Analysis | Market Research
 
-Since May 2024, all of my work has been contributed to the open-source AI community and also supports my super proud advisor’s group, [Machine Psychology](https://mpsych.org/ai/) at UMass Boston led by my Professor Daniel Haehn.
+🟩 What I’m really proud of:
+
+Since August 7th, 2025, my AI Fantastic team has officially become an organization — a place where we grow as a team, contribute our work, create real impact, and most importantly, stay open-sourced. 
+
 
 🟩 My favorite tool are:
 
