@@ -12,6 +12,10 @@ I’m an AI researcher and I love using 🟩 colors to visualize complex AI idea
 
 🟩 Rami and my team, AI Fantastic are starting working on the paper called [Visualization Literacy](https://github.com/raminguyen/Visualization_Literacy) to evaluate Gen AI models's ability to intepret visual information on the charts. 
 
+🟩 What I’m really proud of:
+
+Since August 7th, 2025, my AI Fantastic team has officially become an organization — a place where we grow as a team, contribute our work, create real impact, and most importantly, stay open-sourced. 
+
 **What I accomplished so far with my team is:**
 
 ---
